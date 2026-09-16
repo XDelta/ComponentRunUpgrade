@@ -24,6 +24,8 @@
 		<PackageReference Include="ResoniteModLoader" Version="5.0.1" />
 		<PackageReference Include="Lib.Harmony" Version="2.4.2" />
 		<Reference Include="FrooxEngine" HintPath="$(ResonitePath)FrooxEngine.dll" />
+		<Reference Include="Elements.Core" HintPath="$(ResonitePath)Elements.Core.dll" />
+		<Reference Include="CustomUILib" HintPath="$(ResonitePath)rml_mods\CustomUILib.dll" />
 	</ItemGroup>
 
 	<ItemGroup>
